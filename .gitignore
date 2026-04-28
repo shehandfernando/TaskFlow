@@ -1,0 +1,14 @@
+# Python environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Database (Keep your local data private)
+instance/
+*.db
+
+# IDE settings
+.vscode/
+.idea/
